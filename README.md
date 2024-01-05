@@ -1,3 +1,3 @@
-THIS IS A ToDo LIST APP MADE USING HTML, CSS, JS. 
-I TRIED USING LOCAL STORAGE AND TRIED THAT THE APP UI OVERCOME A REFRESH.
+This is a ToDo List App made Using HTML, CSS & JS. 
+I Used Local Storage for saving the data, the app maintains persistent data and UI state across browser closures or refreshes, providing a consistent experience.
 App Link = https://aditya-jnu.github.io/ToDo/
